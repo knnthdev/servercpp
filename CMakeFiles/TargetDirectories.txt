@@ -1,3 +1,0 @@
-C:/Users/Jefe Maestro/Desktop/server/CMakeFiles/server.dir
-C:/Users/Jefe Maestro/Desktop/server/CMakeFiles/ALL_BUILD.dir
-C:/Users/Jefe Maestro/Desktop/server/CMakeFiles/ZERO_CHECK.dir
